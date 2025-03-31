@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "86238156804",
+    "project_id": "ruumies-517e2",
+    "storage_bucket": "ruumies-517e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86238156804:android:ca54acc6025616c43fbd51",
+        "android_client_info": {
+          "package_name": "com.example.ruumies_alpha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86238156804-50lukdeq9sbau3g3p1cgp9uo8imgqf5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFuZqHLI9Gr_VmwKi8NhUS9Zyp9PJxZZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86238156804-50lukdeq9sbau3g3p1cgp9uo8imgqf5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
