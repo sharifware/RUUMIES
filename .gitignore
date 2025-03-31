@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/release
 
 .fake
+
+#API Keys (Secret)
+/lib/firebase_options.dart
